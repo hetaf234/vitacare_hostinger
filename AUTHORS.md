@@ -1,35 +1,26 @@
-👥 Team Members & Contributions
-1. Hetaf Almazroa (445200317)
-Role: Project Leader
+### 👥 Team Contributions & Roles
 
-Development: Homepage, Signup, and Login pages.
+* **Hetaf Almazroa** (445200317)
+    * <small>**Role:** Project Leader</small>
+    * <small>**Development:** Homepage, Signup, and Login pages.</small>
+    * <small>**Design:** UX/UI Reviewer & Quality Assurance.</small>
 
-Design: UX/UI Reviewer & Quality Assurance.
+* **Joud Terad** (445200470)
+    * <small>**Role:** Developer</small>
+    * <small>**Development:** Add-vitamin_customer Page.</small>
+    * <small>**Design:** UI/UX Designer.</small>
 
-2. Joud Terad (445200470)
-Role: Developer
+* **Dalia Alotaibi** (445202288)
+    * <small>**Role:** Developer</small>
+    * <small>**Development:** User Profile page.</small>
+    * <small>**Design:** UI/UX Designer.</small>
 
-Development: Add-vitamin_customer Page.
+* **Mai Alghamdi** (445200045)
+    * <small>**Role:** Developer</small>
+    * <small>**Development:** Customer-dashboard page.</small>
+    * <small>**Design:** UI/UX Designer.</small>
 
-Design: UI/UX Designer.
-
-3. Dalia Alotaibi (445202288)
-Role: Developer
-
-Development: User Profile page.
-
-Design: UI/UX Designer.
-
-4. Mai Alghamdi (445200045)
-Role: Developer
-
-Development: Customer-dashboard page.
-
-Design: UI/UX Designer.
-
-5. Jawaher Alrasheed (445202248)
-Role: Developer
-
-Development: Admin-dashboard, Add-vitamin, and Edit-vitamin pages.
-
-Design: UI/UX Designer.
+* **Jawaher Alrasheed** (445202248)
+    * <small>**Role:** Developer</small>
+    * <small>**Development:** Admin-dashboard, Add-vitamin, and Edit-vitamin pages.</small>
+    * <small>**Design:** UI/UX Designer.</small>
